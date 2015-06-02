@@ -1,0 +1,9 @@
+LYaw		0		RYaw		0
+LHipRoll	1.0230302	RHipRoll	-1.0230302
+LHipPitch	-21.0157098	LHipPitch	-21.0157098
+LKnee		42.0314196	RKnee		42.0314196
+LAnklePitch	-21.0157098	RAnklePitch	-21.0157098
+LAnkleRoll	-1.0230302	RAnkleRoll	1.0230302
+
+FrdKineWin(m_L_FRD_Yaw,m_L_Hip_Roll,m_L_Hip_Pitch,m_L_Knee_Pitch,m_L_Ankle_Pitch,m_L_Ankle_Roll,
+	   m_R_FRD_Yaw,m_R_Hip_Roll,m_R_Hip_Pitch,m_R_Knee_Pitch,m_R_Ankle_Pitch,m_R_Ankle_Roll);
